@@ -1,6 +1,6 @@
 # ChooseTreeStructure
 
-An algorithm to display tree structure
+An algorithm to display tree structure.
 
 ## 树高树宽范式：针对不同节点数完成不同宽度树的建立 2^x*3^y*5^z...
 
